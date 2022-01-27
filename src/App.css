@@ -1,0 +1,238 @@
+.no-bullets {
+  list-style-type: none;
+}
+.nav{
+  background-color:cadetblue;
+  display: flex;
+  justify-content: space-around;
+  padding:1%;
+  position:fixed;
+  top:0%;
+  width:100%;
+}
+.h{
+  color:white;
+  text-decoration: none;
+}
+.h:hover{
+  color:black;
+}
+.a{
+  color:white;
+  text-decoration: none;
+}
+.a:hover{
+  color:black;
+}
+.m{
+  color:white;
+  text-decoration: none;
+}
+.m:hover{
+  color:black;
+}
+.g{
+  color:white;
+  text-decoration: none;
+}
+.g:hover{
+  color:black;
+}
+.l{
+  color:white;
+  text-decoration: none;
+}
+.l:hover{
+  color:black;
+}
+.welcome{
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+ font-style:inherit;
+ font-weight: bold;
+ color:darkslategray;
+ padding-top:17%;
+ font-size: 350%;
+}
+.subwelcome{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+ font-style:inherit;
+ color:darkslategray;
+ 
+}
+.i{
+  width:60%;
+  margin-top:20%;
+  margin-left: 19%;
+}
+.ip{
+  background-color:lavender;
+}
+ .quote{
+  font-size: 100%;
+  font-family:sans-serif;
+  margin-left: 47%;
+} 
+.biograph{
+  background-color: lavender;
+}
+.bio{
+   padding-top: 4%;
+   margin-left:2%;
+   margin-right:2%;
+   background-color: lavender;
+}
+.biopic{
+  float:right;
+  margin:1%;
+  width:15%;
+}
+.biopictwo{
+  float:right;
+  margin:1%;
+  width:20%;
+}
+.biopicthree{
+  float:left;
+  margin:1%;
+  width:20%;
+}
+.biopicfour{
+  float:left;
+  margin:1%;
+  width:20%;
+}
+.biopicfive{
+  float:left;
+  margin:1%;
+  width:13%;
+}
+.biopicsix{
+  float:right;
+  margin:1%;
+  width:13%;
+}
+/* * {
+  box-sizing: border-box;
+} */
+.column {
+  float: left;
+  width: 30%;
+  margin-left:18%;
+  
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.movie{
+  background-color:lavender;
+}
+.moviehead{
+  padding-top: 4%;
+}
+.ilike{
+  margin-left: 45%;
+}
+.ilikehead{
+  margin: 6%;
+}
+.believe{
+  margin:3%;
+}
+.b{
+  margin:2%;
+  margin-left: 6%;
+  font-size:90% ;
+}
+table, td, th {  
+  border: 1px solid 	#808080;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 95%;
+  margin:3%;
+  
+}
+
+th, td {
+  padding: 15px;
+  margin:2%;
+}
+.awards{
+  padding-top:3%;
+  margin: 2%;
+}
+.achievment{
+  background-color: lavender;
+}
+.achievment h4{
+  margin-left: 2%;
+}
+ol{
+  margin-left:4%;
+  
+}
+/* .ddlj{
+   float:right;
+   width: 10%;
+   margin-top: 30%;
+}
+.happynewyear{
+  float:left;
+  width: 10%;
+}
+.devdas{
+  float:left;
+}
+.raees{
+  margin-left:90%;
+  width: 5%;
+}
+.kalhonaho{
+  float:right;
+}
+.jthj{
+  float:right;
+  width:10%;
+}
+.k3g{
+  float:left;
+  width:10%;
+} */
+.awardone{
+  float:right;
+  width:20%;
+  margin:1%;
+}
+/* .awardtwo{
+  float:right;
+  width:15%;
+  margin:1%;
+}   
+.awardthree{
+  float:right;
+  width:19%;
+}  */
+.gallery{
+  margin-top:5%;
+  background-color: lavender;
+}
+.gallone{
+  width:10%;
+  margin:1%;
+}
+.galltwo{
+  width:20%;
+  margin:1%;
+}
+.gallthree{
+  width:30%;
+  margin:1%;
+}
+.gallfour{
+  width:40%;
+  margin:1%;
+}
